@@ -1,6 +1,10 @@
 # Matlab_MiP
 Repository for Matlab Simulink MiP
 
+Link to demonstration video:
+
+https://www.youtube.com/watch?v=tpZg6iRRVTw&t=120s
+
 To test the FCCR BeagleBone Blue driver blocks, perform the following tasks
 
 1) Install R2018a MATLAB (or newer if available) and Simulink. Make sure to Install Embedded coder.
